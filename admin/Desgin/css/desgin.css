@@ -1,0 +1,39 @@
+:root {
+    outline: none;
+}
+/* .bg-light { 
+    background-color:  !important;
+    color: #fff; 
+}
+.form-inline {
+     
+} */
+/*
+.navbar { margin-bottom: 25px;  } 
+.navbar .navbar-brand  { color: #fff !important; }
+.mr-auto {
+    margin-left: 60%;
+} */
+.navbar  {  margin-bottom: 25px;  } 
+.mr-auto {  margin-left: 60%;     }
+span {
+    background-color: red;  color:#fff; 
+    display: none;
+} 
+.ser {
+    margin-bottom: 10px;
+}
+.result {  
+    display: none;  
+    background-color: #eee; font-weight:bold; 
+}
+/* Start desgin index */
+.login {
+    margin: 120px auto;
+    width: 400px;
+} 
+.btn-log {
+    width: 400px;
+    margin-top: 10px;
+}
+/* end desgin index */
